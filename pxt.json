@@ -1,5 +1,5 @@
 {
-    "name": "NameTag-Branch-Event",
+    "name": "microbit-nametag-branch-event",
     "description": "",
     "dependencies": {
         "core": "*",
